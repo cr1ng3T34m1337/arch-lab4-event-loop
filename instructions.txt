@@ -1,0 +1,3 @@
+print testing
+sha1 nikita bohdan kyryrlo
+print shaaaaaa
